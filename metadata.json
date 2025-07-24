@@ -1,0 +1,6 @@
+{
+  "name": "CLO Management System",
+  "description": "An application for university faculty to define, manage, map, and evaluate Course Learning Outcomes (CLOs) with AI-powered assistance.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
